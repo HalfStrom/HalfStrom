@@ -1,8 +1,8 @@
-# 📈 Estatísticas do GitHub
+# 🧠 Tecnologias em foco
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Halfstrom&show_icons=true&hide_title=true&count_private=true&hide=prs&include_all_commits=true&theme=dark)
+- 🐍 Python  
+- ⚗️ Elixir  
+- ✨ JavaScript
 
-## 📊 Tecnologias que Mais Uso
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizSSZ&layout=compact&theme=dark)
--->
+Projetos, estudos e experimentos com essas linguagens.  
+Sempre aprendendo e construindo.
